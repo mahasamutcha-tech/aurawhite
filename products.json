@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "ยาสีฟัน AuraWhite กลิ่น Glacier Mint (ขนาดพกพา)",
+    "mood": "Glacier Mint",
+    "type": "toothpaste",
+    "size": "30g",
+    "price": 89,
+    "image": "images/aurawhite_glacier_mint_30g.jpg",
+    "description": "ยาสีฟัน AuraWhite กลิ่น Glacier Mint ขนาดพกพา 30 กรัม"
+  },
+  {
+    "id": 2,
+    "name": "ยาสีฟัน AuraWhite กลิ่น Glacier Mint (ขนาดมาตรฐาน)",
+    "mood": "Glacier Mint",
+    "type": "toothpaste",
+    "size": "100g",
+    "price": 199,
+    "image": "images/aurawhite_glacier_mint_100g.jpg",
+    "description": "ยาสีฟัน AuraWhite กลิ่น Glacier Mint ขนาดมาตรฐาน 100 กรัม"
+  },
+  {
+    "id": 3,
+    "name": "ยาสีฟัน AuraWhite กลิ่น White Peach & Mint (ขนาดพกพา)",
+    "mood": "White Peach & Mint",
+    "type": "toothpaste",
+    "size": "30g",
+    "price": 89,
+    "image": "images/aurawhite_peach_mint_30g.jpg",
+    "description": "ยาสีฟัน AuraWhite กลิ่น White Peach & Mint ขนาดพกพา 30 กรัม"
+  },
+  {
+    "id": 4,
+    "name": "ยาสีฟัน AuraWhite กลิ่น White Peach & Mint (ขนาดมาตรฐาน)",
+    "mood": "White Peach & Mint",
+    "type": "toothpaste",
+    "size": "100g",
+    "price": 199,
+    "image": "images/aurawhite_peach_mint_100g.jpg",
+    "description": "ยาสีฟัน AuraWhite กลิ่น White Peach & Mint ขนาดมาตรฐาน 100 กรัม"
+  }
+]
